@@ -1,18 +1,18 @@
-# Node Modules
-node_modules/
+# Visual Studio
+.vs/
 
-# Angular
-dist/
-
-# .NET
+# Build folders
 bin/
 obj/
 
 # VS Code
 .vscode/
 
+# Node modules
+node_modules/
+
+# Angular build
+dist/
+
 # Logs
 *.log
-
-# Environment
-.env
