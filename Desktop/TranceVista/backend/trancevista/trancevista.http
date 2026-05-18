@@ -1,0 +1,6 @@
+@trancevista_HostAddress = http://localhost:5093
+
+GET {{trancevista_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
